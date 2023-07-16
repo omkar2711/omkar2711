@@ -1,5 +1,8 @@
 
+
+![](https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)
 ### Hey there. I'm Omkar. Welcome to my GitHub profile.👋
+
 <!--
 **omkar2711/omkar2711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
