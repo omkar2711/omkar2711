@@ -1,3 +1,5 @@
+[![SW8D1.gif](https://s12.gifyu.com/images/SW8D1.gif)](https://gifyu.com/image/SW8D1)
+
 ### Hi there 👋
 
 <!--
