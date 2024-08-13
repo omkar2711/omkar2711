@@ -6,7 +6,7 @@
 Hi, I’m Omkar Bharitkar. I am currently pursuing my bachelor’s degree in the ECE branch from IIIT Pune. I love to dive into technology and apply it to the real world through various projects.
 
 ## Skills
-|   **Prog Languages**  |       C       |      C++     |     Python       |      CSS       |    Javascript    |
+|   **Prog Languages**  |       C       |      C++     |     Python       |   Typescript   |    Javascript    |
 |:---------------------:|:-------------:|:------------:|:----------------:|:--------------:|:----------------:|
 |     **Frameworks**    |   React js    |    Node js   |     Tailwind css |   Bootstrap    |    React-native  |
 |     **Platforms**     | Visual Studio |    Sublime   |        Atom      | Android Studio |       AWS        |
