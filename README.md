@@ -27,7 +27,7 @@
 
 <br><br>
 
-👋 Hi! I'm Omkar Bharitkar, a full-stack developer from India, and working as a Technical writer and Instructor at upGrad.
+👋 Hi! I'm Omkar Bharitkar, a full-stack developer from India, and working as a Tech Mentor at upGrad.
   
 </div>
 
