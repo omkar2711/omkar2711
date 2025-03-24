@@ -12,7 +12,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmkar-Bharitkar%2FOmkar-Bharitkar&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
   <a href="https://www.linkedin.com/in/omkar-bharitkar-88a912200/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Omkar-Bharitkar" /></a>
-  <a href="mailto:omkarbharitkar79@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   omkarbharitkar79@gmail.com" /></a>
+  <a href="mailto:omkarbharitkar79@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Omkar i.e.   omkarbharitkar79@gmail.com" /></a>
 <!--   <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a> -->
 <!--   <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
    -->
